@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">Self Promo App</string>
-    <string name="contact_name">Contact Name</string>
-    <string name="contact_number">Contact Number</string>
-    <string name="display_name">Display Name</string>
-    <string name="junior_checkbox_text">Include Junior\n</string>
-    <string name="immediate_start_text">Immediate Start\n</string>
-    <string name="available_from_date">Available From Date</string>
-    <string name="submit">Preview Messsage</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_contact_number">Contact Number</string>
+    <string name="hint_display_name">Display Name</string>
+    <string name="checkbox_text_include_junior">Include Junior\n</string>
+    <string name="checkbox_text_immediate_start">Immediate Start\n</string>
+    <string name="hint_available_from_date">Available From Date</string>
+    <string name="button_text_preview">Preview Messsage</string>
+    <string name="button_text_submit">Send Message</string>
 </resources>

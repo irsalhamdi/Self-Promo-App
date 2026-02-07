@@ -16,7 +16,7 @@
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/contact_name"
+            android:hint="@string/hint_contact_name"
             android:layout_marginTop="8dp">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -33,7 +33,7 @@
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/contact_number"
+            android:hint="@string/hint_contact_number"
             android:layout_marginTop="8dp">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -50,7 +50,7 @@
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/display_name"
+            android:hint="@string/hint_display_name"
             android:layout_marginTop="8dp">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -68,7 +68,7 @@
             android:id="@+id/checkbox_junior"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/junior_checkbox_text"
+            android:text="@string/checkbox_text_include_junior"
             android:layout_marginTop="8dp"/>
 
         <Spinner
@@ -82,13 +82,13 @@
             android:id="@+id/checkbox_immediate_start"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/immediate_start_text"
+            android:text="@string/checkbox_text_immediate_start"
             android:layout_marginTop="8dp"/>
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/available_from_date"
+            android:hint="@string/hint_available_from_date"
             android:layout_marginTop="8dp">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -106,7 +106,7 @@
             android:id="@+id/button_preview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/submit"
+            android:text="@string/button_text_preview"
             style="@style/Widget.AppCompat.Button.Colored"
             android:layout_marginTop="24dp"/>
 

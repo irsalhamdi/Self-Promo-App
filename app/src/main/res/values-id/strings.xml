@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Self Promo App</string>
+    <string name="hint_contact_name">Nama Kontak</string>
+    <string name="hint_contact_number">Nomor Kontak</string>
+    <string name="hint_display_name">Nama Tampilan</string>
+    <string name="checkbox_text_include_junior">Termasuk Junior\n</string>
+    <string name="checkbox_text_immediate_start">Mulai Segera\n</string>
+    <string name="hint_available_from_date">Tersedia Dari Tanggal</string>
+    <string name="button_text_preview">Pratinjau Pesan</string>
+    <string name="button_text_submit">Kirim Pesan</string>
+</resources>
